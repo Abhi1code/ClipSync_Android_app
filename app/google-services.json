@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "749113595662",
+    "firebase_url": "https://clipsync-77d18.firebaseio.com",
+    "project_id": "clipsync-77d18",
+    "storage_bucket": "clipsync-77d18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749113595662:android:a2f20ea3805261bf",
+        "android_client_info": {
+          "package_name": "com.clipsync.bit_by_bit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749113595662-ektcl6him19enm5c0v2q52ga9vkaqmnh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clipsync.bit_by_bit",
+            "certificate_hash": "e0fe784030a957319e3e18db294705cfced06399"
+          }
+        },
+        {
+          "client_id": "749113595662-95968ckdj5lsipn3ui5gjhvfhfrm4gre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3SU7aeL0pTjFREphElXPKSFj0zPk3oL8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749113595662-95968ckdj5lsipn3ui5gjhvfhfrm4gre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749113595662:android:8f71f2ad605de714",
+        "android_client_info": {
+          "package_name": "com.clipsync.clipsync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749113595662-guginikful2guh87ikmanr9t8ci08cms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clipsync.clipsync",
+            "certificate_hash": "e0fe784030a957319e3e18db294705cfced06399"
+          }
+        },
+        {
+          "client_id": "749113595662-95968ckdj5lsipn3ui5gjhvfhfrm4gre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3SU7aeL0pTjFREphElXPKSFj0zPk3oL8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749113595662-95968ckdj5lsipn3ui5gjhvfhfrm4gre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749113595662:android:644f5e1f018cbe54",
+        "android_client_info": {
+          "package_name": "com.clipsync.clipsync_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749113595662-lbjrbidsnifui317ntggm7ia9rh73d33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clipsync.clipsync_android",
+            "certificate_hash": "e0fe784030a957319e3e18db294705cfced06399"
+          }
+        },
+        {
+          "client_id": "749113595662-95968ckdj5lsipn3ui5gjhvfhfrm4gre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3SU7aeL0pTjFREphElXPKSFj0zPk3oL8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749113595662-95968ckdj5lsipn3ui5gjhvfhfrm4gre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749113595662:android:60949c4a510f4db2",
+        "android_client_info": {
+          "package_name": "com.clipsync.clipsync_reloaded"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749113595662-3p99d5sg58a29113s8rti207m6nfou4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clipsync.clipsync_reloaded",
+            "certificate_hash": "e0fe784030a957319e3e18db294705cfced06399"
+          }
+        },
+        {
+          "client_id": "749113595662-95968ckdj5lsipn3ui5gjhvfhfrm4gre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3SU7aeL0pTjFREphElXPKSFj0zPk3oL8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749113595662-95968ckdj5lsipn3ui5gjhvfhfrm4gre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
